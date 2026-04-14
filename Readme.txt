@@ -1,3 +1,5 @@
+Replication package for "Real-Time COVID-19 Projections in Tokyo: Lessons for Future Pandemics"
+
 1. Please set the home path.
 
 2. Please run main.m to generate the figures 1-5 and tables 1-3 in the draft.
